@@ -23,7 +23,8 @@
       - Features:
       1. with **Square Loss Function**
       2. Stochastic gradient descent(**SGD**)
-      3. Plot Loss Function & Compare Yhat and YReal
+      3. Fit for Simple Linear Regression &　Multi-variate Regression
+      4. Plot Loss Function & Compare Yhat and YReal
     
    
 - [x] Apriori
