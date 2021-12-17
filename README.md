@@ -16,7 +16,15 @@
     - [x] Covariance
     - [x] Sample Standard Deviation (ssd)
     - [x] Pearson Coeffiencent 
+-----
 
-2. 
+2. Linear Models
+    - [x] Linear Regression 
+      - Features:
+      1. with **Square Loss Function**
+      2. Stochastic gradient descent(**SGD**)
+      3. Plot Loss Function & Compare Yhat and YReal
+    
+   
 - [x] Apriori
 - [x] FPGrowth
