@@ -16,11 +16,10 @@
     - [x] Covariance
     - [x] Sample Standard Deviation (ssd)
     - [x] Pearson Coeffiencent 
------
-
-2. Linear Models
-    - [x] Linear Regression 
-      - Features:
+2. Models
+  - Linear
+    - [x] Regression 
+    - Features:
       1. with **Square Loss Function**
       2. Stochastic gradient descent(**SGD**)
       3. Fit for Simple Linear Regression &　Multi-variate Regression
