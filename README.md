@@ -12,6 +12,10 @@
   - Calculate Similarity: 
     - [x] Jaccard
     - [x] Simple Matching Coefficent(SMC) 
+  - Calculate relevance:
+    - [x] Covariance
+    - [x] Sample Standard Deviation (ssd)
+    - [x] Pearson Coeffiencent 
 
 2. 
 - [x] Apriori
