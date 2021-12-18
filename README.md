@@ -18,11 +18,13 @@
     - [x] Pearson Coeffiencent 
 2. Models
   - Linear
-    - [x] Batch Gradient Regression 
+    - [x] Batch Gradient Descent Regression 
     - Features:
       1. with **Square Loss Function**
       2. Fit for Simple Linear Regression &　Multi-variate Regression
       4. Plot Loss Function & Compare Yhat and YReal
+
+    - [ ] Mini Batch Gradient Descent Regression **Working on Progress** 🦾
     
    
 - [x] Apriori
