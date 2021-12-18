@@ -25,6 +25,9 @@
       4. Plot Loss Function & Compare Yhat and YReal
 
     - [ ] Mini Batch Gradient Descent Regression **Working on Progress** 🦾
+  - Classification
+    - Decision Tree
+     - [x] Entropy: Compute the uncertainty of DateSet 
     
    
 - [x] Apriori
