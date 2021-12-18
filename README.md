@@ -44,8 +44,8 @@
   - Neural Network **Working on Progress** 👻👻👻👻
 
 ---
-**Hope that there's 0.1% possibility that I could start my journey to Computer Vision.**
-By Tracy Tao (Dasein), a STEM GIRL in business world.
+- **Hope that there's 0.1% possibility that I could start my journey to Computer Vision.**
+  - By Tracy Tao (Dasein), a STEM GIRL in business world.
 ---
 Post Scrpits:
 - By the way, I wanna shout out loud that I love Elon Musk! 🧠
