@@ -26,8 +26,12 @@
 
     - [ ] Mini Batch Gradient Descent Regression **Working on Progress** 🦾
   - Classification
-    - Decision Tree
+    - Decision Tree 
      - [x] Entropy: Compute the uncertainty of DateSet 
+     - [ ] Information Gain
+     - [ ] Decision Tree Visualization **Working on Progress** 🦾
+     - [ ] ID3 **Working on Progress** 🦾
+     - [ ] C4.5 **Working on Progress** 🦾
     
    
 - [x] Apriori
