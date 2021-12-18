@@ -32,7 +32,22 @@
      - [ ] Decision Tree Visualization **Working on Progress** 🦾
      - [ ] ID3 **Working on Progress** 🦾
      - [ ] C4.5 **Working on Progress** 🦾
+    - Bayes
+     - [ ] Naive Bayes **Working on Progress** 🦾
+    - Sigmoid
+     - [ ] Logistic Regression **Working on Progress** 🦾
+  - Cluster
+    - [ ] K-Nearest Neighbor **Working on Progress** 🦾
+    - [ ] KMeans
+    - [x] Apriori
+    - [x] FPGrowth  
+  - Neural Network **Working on Progress** 👻👻👻👻
+
+---
+**Hope that there's 0.1% possibility that I could start my journey to Computer Vision.**
+By Tracy Tao (Dasein), a STEM GIRL in business world.
+---
+Post Scrpits:
+- By the way, I wanna shout out loud that I love Elon Musk! 🧠
+
     
-   
-- [x] Apriori
-- [x] FPGrowth
