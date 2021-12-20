@@ -1,5 +1,5 @@
 # Codes-for-Algorithms
-- Codes for realizing theories learned from Data Mining, Machine Learning, Deep Learning without using the present Python packages. 
+- Codes for realizing theories learned from Data Mining, Machine Learning, Deep Learning without using the present Python packages. (Just basic coding test to challenge myself).
 - **Upload on a random basis.**
 
 --------
