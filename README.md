@@ -30,7 +30,7 @@
      - [x] Entropy: Compute the uncertainty of DateSet 
      - [ ] Information Gain
      - [ ] Decision Tree Visualization **Working on Progress** 🦾
-     - [ ] ID3 **Working on Progress** 🦾
+     - [x] ID3 
      - [ ] C4.5 **Working on Progress** 🦾
     - Bayes
      - [ ] Naive Bayes **Working on Progress** 🦾
