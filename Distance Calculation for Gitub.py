@@ -6,8 +6,10 @@
 from math import *
 import numpy as np
 import pandas as pd
-
-
+# 切比雪夫距离
+def Chebyshev(x,y):
+    x,y = np.array(x), np.array(y)
+    return np.max(abs(x-y))
 
 
 # 归一化 = 中心化 + 标准化，return u = 0 ,sd = 1
