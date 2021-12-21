@@ -9,6 +9,7 @@
     - [x] euclidean
     - [x] manhattan
     - [x] Minkowski
+    - [x] Chebyshev
   - Calculate Similarity: 
     - [x] Jaccard
     - [x] Simple Matching Coefficent(SMC) 
