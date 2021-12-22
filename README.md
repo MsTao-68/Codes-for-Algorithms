@@ -97,6 +97,19 @@
             - K近邻受数值的影响较大，对数据进行归一化处理 new = (old - min)/(max - min)
             - train_test_split,检验准确率
             - 调整测试数据比例或者K来调参
+    - [x] 层次聚类 AGNES
+        - 自底向上: 自底向上合并组，计算组间相似度
+        - input: dataset
+        - output: clusters
+          1. 将每个对象初始化成一个簇
+          2. repeat
+          3. 计算簇距离（矩阵运算），找到最相近的簇
+          4. 合并相近簇成新簇
+          5. until 停止条件K/D
+        - 距离度量方法：最小距离；最大距离；均值距离；平均距离
+        - 算法复杂度：O(n^2),空间复杂度：因为存放相似度矩阵
+    ------
+    - [ ] 层次聚类 DIANA 
 #### <div align="center"><font color='#00338D'>“我无坚不摧 将情藏得隐晦 只有那明月 知道过程壮烈”</font></div> 
     - [ ] KMeans
     - [x] Apriori
