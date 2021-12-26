@@ -110,12 +110,11 @@
         - 算法复杂度：O(n^2),空间复杂度：因为存放相似度矩阵
     ------
     - [ ] 层次聚类 DIANA 
-#### <div align="center"><font color='#00338D'>“我无坚不摧 将情藏得隐晦 只有那明月 知道过程壮烈”</font></div> 
     - [ ] KMeans
     - [x] Apriori
     - [x] FPGrowth  
   - Neural Network **Working on Progress** 👻👻👻👻
-
+#### <div align="center"><font color='#00338D'>“我无坚不摧 将情藏得隐晦 只有那明月 知道过程壮烈”</font></div> 
 ---
 - **Hope that there's 0.1% possibility that I could start my journey to Computer Vision.**
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
