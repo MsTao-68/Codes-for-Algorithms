@@ -121,5 +121,5 @@
 ---
 Post Scrpits:
 - By the way, I wanna shout out loud that I love Elon Musk! 🧠
-
+- 在不被大多数人看好的时候，请一定守护好自己的内心。
     
