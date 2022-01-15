@@ -30,7 +30,7 @@
     - Decision Tree 
      - [x] Entropy: Compute the uncertainty of DateSet 
      - [ ] Information Gain
-     - [ ] Decision Tree Visualization **Working on Progress** 🦾
+     - [ ] Decision Tree Visualization 
      - [x] ID3 
      - [ ] C4.5 **Working on Progress** 🦾
     - Bayes
@@ -114,9 +114,15 @@
     - [x] Apriori
     - [x] FPGrowth  
   - Neural Network **Working on Progress** 👻👻👻👻
-#### <div align="center"><font color='#00338D'>“我无坚不摧 将情藏得隐晦 只有那明月 知道过程壮烈”</font></div> 
+3. Optimization
+- Newton 插值
+- Lagrange 插值
+- 精确线性搜索
+- 非精确线性搜索
+
+#### <div align="center"><font color='#00338D'>“The heart wants it really wants.”</font></div> 
 ---
-- **Hope that there's 0.1% possibility that I could start my journey to Computer Vision.**
+- **Hope that there's 0.1% possibility that I could start my journey to Artficial Intelligence.**
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
 ---
 Post Scrpits:
