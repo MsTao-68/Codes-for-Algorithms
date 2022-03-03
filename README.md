@@ -114,11 +114,24 @@
     - [x] Apriori
     - [x] FPGrowth  
   - Neural Network **Working on Progress** 👻👻👻👻
-3. Optimization
-- Newton 插值
-- Lagrange 插值
-- 精确线性搜索
-- 非精确线性搜索
+3. Optimization 最优化
+- [ ] Newton 插值
+- [ ] Lagrange 插值
+- [ ] 精确线性搜索
+- [ ] 非精确线性搜索
+- [ ] Wolf 算法
+
+4. Deep Learning 深度学习
+- [ ] MLP 多层感知机
+- [ ] CNN Convolutional Nueral Network 卷积神经网络
+- [ ] LSTM 长短记忆神经网络
+- [ ] LSRM + Attention
+- [ ] RNN 循环神经网络
+
+5. OpenCV Computer Vision 计算机视觉与数字图像处理
+- 待更新
+
+
 
 #### <div align="center"><font color='#00338D'>“The heart wants it really wants.”</font></div> 
 ---
