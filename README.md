@@ -22,6 +22,8 @@
     - [x] Batch Gradient Descent Regression 
       - Batch Gradient Descent Regression Version 2.0 added @4 March, 2022 
         - Summary all loss function   
+    - [ ] Mini Batch Gradient Descent Regression
+      - [x] Linear Model - Mini Batch Gradient Descent Regresion using Pytorch  
     - Features:
       1. with **Square Loss Function**
       2. Fit for Simple Linear Regression &　Multi-variate Regression
