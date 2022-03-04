@@ -20,6 +20,8 @@
 2. Models
   - Linear
     - [x] Batch Gradient Descent Regression 
+      - Batch Gradient Descent Regression Version 2.0 added @4 March, 2022 
+        - Summary all loss function   
     - Features:
       1. with **Square Loss Function**
       2. Fit for Simple Linear Regression &　Multi-variate Regression
