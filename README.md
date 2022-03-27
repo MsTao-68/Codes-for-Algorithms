@@ -130,10 +130,13 @@
 - [x] MLP 多层感知机
 - [ ] CNN Convolutional Nueral Network 卷积神经网络
 - [ ] LSTM 长短记忆神经网络
-- [ ] LSRM + Attention
+- [ ] LSTM + Attention
 - [ ] RNN 循环神经网络
 
 5. OpenCV Computer Vision 计算机视觉与数字图像处理
+- 待更新
+
+6. Natural Lagrange Process 
 - 待更新
 
 
