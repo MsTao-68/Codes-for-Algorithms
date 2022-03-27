@@ -136,7 +136,7 @@
 5. OpenCV Computer Vision 计算机视觉与数字图像处理
 - 待更新
 
-6. Natural Lagrange Process 
+6. Natural Language Process 
 - 待更新
 
 
