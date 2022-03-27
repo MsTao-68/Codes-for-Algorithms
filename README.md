@@ -119,14 +119,15 @@
     - [x] FPGrowth  
   - Neural Network **Working on Progress** 👻👻👻👻
 3. Optimization 最优化
-- [ ] Newton 插值
-- [ ] Lagrange 插值
+- [x] Newton 插值
+- [x] Lagrange 插值
 - [ ] 精确线性搜索
 - [ ] 非精确线性搜索
-- [ ] Wolf 算法
+- [x] Wolf 算法
 
 4. Deep Learning 深度学习
-- [ ] MLP 多层感知机
+- [x] Softmax
+- [x] MLP 多层感知机
 - [ ] CNN Convolutional Nueral Network 卷积神经网络
 - [ ] LSTM 长短记忆神经网络
 - [ ] LSRM + Attention
@@ -137,12 +138,13 @@
 
 
 
-#### <div align="center"><font color='#00338D'>“The heart wants it really wants.”</font></div> 
+#### <div align="center"><font color='#00338D'>“Grant me what the heart really wants.”</font></div> 
 ---
 - **Hope that there's 0.1% possibility that I could start my journey to Artficial Intelligence.**
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
 ---
 Post Scrpits:
 - By the way, I wanna shout out loud that I love Elon Musk! 🧠
-- 在不被大多数人看好的时候，请一定守护好自己的内心。
+- Grant is more brainy than Elon Musk. >.<
+- 初心何见 清风拂心弦。
     
