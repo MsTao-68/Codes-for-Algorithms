@@ -137,9 +137,7 @@
 - 待更新
 
 6. Natural Language Process 
-- 待更新
-
-
+- [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
 
 #### <div align="center"><font color='#00338D'>“Grant me what the heart really wants.”</font></div> 
 ---
