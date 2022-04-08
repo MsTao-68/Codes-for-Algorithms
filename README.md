@@ -138,6 +138,7 @@
 
 6. Natural Language Process 
 - [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
+- [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
 
 #### <div align="center"><font color='#00338D'>“Grant me what the heart really wants.”</font></div> 
 ---
