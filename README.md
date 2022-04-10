@@ -143,11 +143,8 @@
 
 #### <div align="center"><font color='#00338D'>“Grant me what the heart really wants.”</font></div> 
 ---
-- **Hope that there's 0.1% possibility that I could start my journey to Artficial Intelligence.**
+- **Hope that there's 99.9% possibility that I could start my journey to Artficial Intelligence.**
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
 ---
-Post Scrpits:
-- By the way, I wanna shout out loud that I love Elon Musk! 🧠
-- Grant is more brainy than Elon Musk. >.<
-- 初心何见 清风拂心弦。
+
     
