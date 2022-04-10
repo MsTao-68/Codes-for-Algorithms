@@ -141,7 +141,7 @@
 - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
 - [x] Trie Tree Data Structure 
 
-#### <div align="center"><font color='#00338D'>“Grant me what the heart really wants.”</font></div> 
+#### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
 ---
 - **Hope that there's 99.9% possibility that I could start my journey to Artficial Intelligence.**
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
