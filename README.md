@@ -117,29 +117,30 @@
     - [ ] KMeans
     - [x] Apriori
     - [x] FPGrowth  
-  - Neural Network **Working on Progress** 👻👻👻👻
+    - [ ] Neural Network **Working on Progress** 👻👻👻👻
 3. Optimization 最优化
-- [x] Newton 插值
-- [x] Lagrange 插值
-- [ ] 精确线性搜索
-- [ ] 非精确线性搜索
-- [x] Wolf 算法
+  - [x] Newton 插值
+  - [x] Lagrange 插值
+  - [ ] 精确线性搜索
+  - [ ] 非精确线性搜索
+  - [x] Wolf 算法
 
 4. Deep Learning 深度学习
-- [x] Softmax
-- [x] MLP 多层感知机
-- [ ] CNN Convolutional Nueral Network 卷积神经网络
-- [ ] LSTM 长短记忆神经网络
-- [ ] LSTM + Attention
-- [ ] RNN 循环神经网络
+- **Pytorch** 
+  - [x] MNIST-FASHION Softmax
+  - [x] MNIST-FASHION MLP 多层感知机
+  - [ ] CNN Convolutional Nueral Network 卷积神经网络
+  - [ ] LSTM 长短记忆神经网络
+  - [ ] LSTM + Attention
+  - [ ] RNN 循环神经网络
 
 5. OpenCV Computer Vision 计算机视觉与数字图像处理
-- 待更新
+  - 待更新
 
 6. Natural Language Process 
-- [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
-- [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
-- [x] Trie Tree Data Structure 
+  - [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
+  - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
+  - [x] Trie Tree Data Structure 
 
 #### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
 ---
