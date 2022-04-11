@@ -119,11 +119,11 @@
     - [x] FPGrowth  
     - [ ] Neural Network **Working on Progress** 👻👻👻👻
 3. Optimization 最优化
-  - [x] Newton 插值
-  - [x] Lagrange 插值
-  - [ ] 精确线性搜索
-  - [ ] 非精确线性搜索
-  - [x] Wolf 算法
+    - [x] Newton 插值
+    - [x] Lagrange 插值
+    - [ ] 精确线性搜索
+    - [ ] 非精确线性搜索
+    - [x] Wolf 算法
 
 4. Deep Learning 深度学习
 - **Pytorch** 
@@ -154,15 +154,15 @@
   - [ ] Adam
 
 5. OpenCV Computer Vision 计算机视觉与数字图像处理
-  - 待更新
+    - 待更新
 
 6. Natural Language Process 
-  - [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
-  - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
-  - [x] Trie Tree Data Structure 
-  - [ ] BERT
-  - [ ] Transformer
-  - [ ] word2vec
+    - [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
+    - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
+    - [x] Trie Tree Data Structure 
+    - [ ] BERT
+    - [ ] Transformer
+    - [ ] word2vec
 
 #### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
 ---
