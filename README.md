@@ -128,11 +128,30 @@
 4. Deep Learning 深度学习
 - **Pytorch** 
   - [x] MNIST-FASHION Softmax
-  - [x] MNIST-FASHION MLP 多层感知机
-  - [ ] CNN Convolutional Nueral Network 卷积神经网络
-  - [ ] LSTM 长短记忆神经网络
+  - [x] Softmax from scratch (Softmax v2)
+  - [x] MNIST-FASHION MLP 
+  - [x] MLP from scratch (MLP v2)
+  - [x] Weight Decay & Dropout
+  - [x] CNN Convolutional Nueral Network 
+  - [x] LeNet
+  - [x] AlexNet
+  - [ ] VGGNet
+  - [ ] NiN
+  - [ ] GoogleNet
+  - [ ] ResNet
+  - [ ] DenseNet
+  - [ ] GRU
+  - [ ] LSTM 
+  - [ ] Deep RNN
+  - [ ] Bi-RNN
+  - [ ] seq2seq
+  - [ ] Attention
+  - [ ] Transformer
   - [ ] LSTM + Attention
-  - [ ] RNN 循环神经网络
+  - [ ] AdaGrad
+  - [ ] RMSProp
+  - [ ] Adadelta
+  - [ ] Adam
 
 5. OpenCV Computer Vision 计算机视觉与数字图像处理
   - 待更新
@@ -141,6 +160,9 @@
   - [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
   - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
   - [x] Trie Tree Data Structure 
+  - [ ] BERT
+  - [ ] Transformer
+  - [ ] word2vec
 
 #### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
 ---
