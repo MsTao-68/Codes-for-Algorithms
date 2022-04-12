@@ -135,11 +135,11 @@
   - [x] CNN Convolutional Nueral Network 
   - [x] LeNet
   - [x] AlexNet
-  - [ ] VGGNet
-  - [ ] NiN
-  - [ ] GoogleNet
-  - [ ] ResNet
-  - [ ] DenseNet
+  - [x] VGGNet
+  - [x] NiN
+  - [x] GoogleNet
+  - [x] ResNet
+  - [x] DenseNet
   - [ ] GRU
   - [ ] LSTM 
   - [ ] Deep RNN
