@@ -140,10 +140,10 @@
   - [x] GoogleNet
   - [x] ResNet
   - [x] DenseNet
-  - [ ] GRU
-  - [ ] LSTM 
-  - [ ] Deep RNN
-  - [ ] Bi-RNN
+  - [x] GRU
+  - [x] LSTM 
+  - [x] Deep RNN
+  - [x] Bi-RNN
   - [ ] seq2seq
   - [ ] Attention
   - [ ] Transformer
