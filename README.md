@@ -144,7 +144,9 @@
   - [x] LSTM 
   - [x] Deep RNN
   - [x] Bi-RNN
-  - [ ] seq2seq
+  - [x] Seq2Seq
+  - [x] Seq2Seq-translation
+  - [ ] Seq2Se2-translation-Attention
   - [ ] Attention
   - [ ] Transformer
   - [ ] LSTM + Attention
