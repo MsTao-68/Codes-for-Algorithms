@@ -147,7 +147,10 @@
   - [x] Seq2Seq
   - [x] Seq2Seq-translation
   - [ ] Seq2Se2-translation-Attention
-  - [ ] Attention
+  - [x] Attention
+  - [x] Bahdanau Attention
+  - [x] Self-Attention Positional Encoding
+  - [x] Multi-head Attention
   - [ ] Transformer
   - [ ] LSTM + Attention
   - [ ] AdaGrad
