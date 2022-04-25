@@ -167,6 +167,7 @@
     - [x] Trie Tree Data Structure 
     - [ ] BERT
     - [ ] Transformer
+    - [x] Transformer Paper Reading & Sharing (PDF) 
     - [ ] word2vec
 
 #### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
