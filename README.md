@@ -117,7 +117,7 @@
     - [ ] KMeans
     - [x] Apriori
     - [x] FPGrowth  
-    - [ ] Neural Network **Working on Progress** 👻👻👻👻
+    - [x] Neural Network 
 3. Optimization 最优化
     - [x] Newton 插值
     - [x] Lagrange 插值
@@ -166,7 +166,7 @@
     - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
     - [x] Trie Tree Data Structure 
     - [ ] BERT
-    - [ ] Transformer
+    - [ ] Transformer **Working on Progress：70% ing **
     - [x] Transformer Paper Reading & Sharing (PDF) 
     - [ ] word2vec
 
