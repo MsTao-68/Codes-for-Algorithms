@@ -22,8 +22,8 @@
     - [x] Batch Gradient Descent Regression 
       - Batch Gradient Descent Regression Version 2.0 added @4 March, 2022 
         - Summary all loss function   
-    - [ ] Mini Batch Gradient Descent Regression
-      - [x] Linear Model - Mini Batch Gradient Descent Regresion using Pytorch  
+    - [x] Mini Batch Gradient Descent Regression
+    - [x] Linear Model - Mini Batch Gradient Descent Regresion using Pytorch  
     - Features:
       1. with **Square Loss Function**
       2. Fit for Simple Linear Regression &　Multi-variate Regression
@@ -79,6 +79,7 @@
             1. If K值较小 then 距离很近才能进行预测，由于具有噪声，整体模型过于复杂，会发生过拟合现象
             2. IF K值较大 then 近似误差会较大，不相似点归为同一类，预测错误，模型过于简单
             3. If K = N，信息大量损失，模型过于简单
+          
               - 用cross validation 来选择最优的k值
           3. 分类决策规则
           - 多数表决法
@@ -151,8 +152,8 @@
   - [x] Bahdanau Attention
   - [x] Self-Attention Positional Encoding
   - [x] Multi-head Attention
-  - [ ] Transformer
-  - [ ] LSTM + Attention
+  - [x] Transformer
+  - [x] LSTM + Attention
   - [ ] AdaGrad
   - [ ] RMSProp
   - [ ] Adadelta
@@ -165,10 +166,11 @@
     - [x] TMall SKU Rate crawler + Text Filtering + SnowNLP Emotion detect + Data Visualization
     - [x] CN Segmentation Algorithm from scratch (including fully segmentation, forward maximum matching, backward maximum matching, bi maximum matching) 
     - [x] Trie Tree Data Structure 
-    - [ ] BERT
-    - [ ] Transformer **Working on Progress：70% ing**
+    - [x] BERT
+    - [x] Transformer 
     - [x] Transformer Paper Reading & Sharing (PDF) 
-    - [ ] word2vec
+    - [x] word2vec
+    - [x] GPT2
 
 #### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
 ---
@@ -176,4 +178,4 @@
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
 ---
 
-    
+​    
