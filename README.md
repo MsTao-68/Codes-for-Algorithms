@@ -174,7 +174,7 @@
 
 #### <div align="center"><font color='#00338D'>“Reclaim the crown.”</font></div> 
 ---
-- **I'm sure that there's 99.9% possibility that I can start my journey to Artficial Intelligence in near future.**
+- **I'm sure that there's 99.9% possibility that I can start my journey to Artificial Intelligence in near future.**
   - By Tracy Tao (Dasein), a STEM GIRL in business world.
 ---
 
